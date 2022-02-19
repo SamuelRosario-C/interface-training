@@ -278,11 +278,10 @@ body {
     padding-top: 10px;
 }
 
-.pt{
+.card .mt{
     margin-top: 50px;
+    width: 170px;
 }
-
-
 
 .info-card{
     font-weight: 600;
